@@ -1,0 +1,58 @@
+body {
+  
+    padding: 0;
+    margin: 0;
+}
+.bedzNew {
+  background-color: red;
+
+}
+  
+  .footerimg {
+      max-height: 10rem;
+  }
+  .footer-copyright ,  .futkontakt>h6  {
+    color: #666;
+  
+  }
+  .futkontakt {
+    padding: 20px;
+  }
+  .page-footer {
+    background-color:hsl(210, 10%, 23%);
+    color:  #666;
+  }
+
+
+
+  
+.logoimg {
+    max-height: 4rem;
+}
+.main {
+  padding: 8px;
+}
+.navlink {
+    margin-right: 3rem;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+
+.welcome {
+  padding: 2rem 0 0 0;
+  text-align: center;
+
+}
+.jmbwelcome {
+  background-color: white;
+  padding: 0;
+}
+.img-round {
+  display: inline-block;
+  max-width: 10rem;
+  margin: 1rem;
+}
+

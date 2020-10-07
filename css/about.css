@@ -1,0 +1,14 @@
+
+  
+
+.jumbotron{
+    background-image: url("../BUilding photo/adult-architect-blueprint-business-416405-1.jpg") ;
+    background-size: cover;
+}
+
+  @media all and (max-width:600px){
+    .jumbotron
+    {
+        background-image: url("../BUilding photo/onama-sm.png") ;
+    }
+    }

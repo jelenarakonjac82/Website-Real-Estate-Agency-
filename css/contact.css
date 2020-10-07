@@ -1,0 +1,12 @@
+body{
+background-color: hsl(210, 10%, 23%);
+}
+.divMain {
+    background-image: url("../BUilding photo/pozadina\ kontakt.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+    flex-grow: 1;   
+}
+
+
